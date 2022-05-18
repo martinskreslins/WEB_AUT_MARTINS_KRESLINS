@@ -1,0 +1,18 @@
+{
+  "fname": "Mārtiņš",
+  "lname": "Krēsliņš",
+  "email": "myemail@example.com",
+  "num": "12345678",
+  "monthID": "1",
+  "year": "1930",
+  "subject": "Economics",
+  "address": "Gotham, Batcave",
+  "state": "NCR",
+  "mycity": "Delhi",
+  "gender": "Male",
+  "dateofbirth": "28 February,1930",
+  "hobby": "Music",
+  "pic": "pepe.jpg"
+
+
+}
